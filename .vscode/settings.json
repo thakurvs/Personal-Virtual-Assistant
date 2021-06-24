@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "C:\\Python 39\\Lib",
+        "C:\\Python 39\\Scripts"
+    ]
+}
